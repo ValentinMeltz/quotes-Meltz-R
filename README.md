@@ -9,6 +9,6 @@ A python program that generates programming quotes and jokes.
 - `contributor-3`: MELTZ Valentin Group R 
 
 ## Fork urls
-- `contributor-1`: [quotes-bar-b](url-1)
+- `contributor-1`: [quotes-Bonnete-R](https://github.com/tutuO1/quotes-Bonnete-R.git)
 - `contributor-2`: [quotes-wizz-b](url-2)
 - `contributor-3`: [quotes-MELTZ-R](https://github.com/ValentinMeltz/quotes-Meltz-R.git)
